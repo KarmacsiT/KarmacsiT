@@ -1,5 +1,5 @@
 Welcome to my GitHub Page 👋 <br />
-I’m Tamás Karmacsi, currently studying Computer Science Engineering at Óbuda University :mortar_board:
+I’m Tamás Karmacsi, a Full Stack Web Developer from Hungary.
 
 <!---
 KarmacsiT/KarmacsiT is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
